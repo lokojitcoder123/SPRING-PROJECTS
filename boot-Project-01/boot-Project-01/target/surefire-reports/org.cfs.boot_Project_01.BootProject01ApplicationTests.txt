@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.cfs.boot_Project_01.BootProject01ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.711 s -- in org.cfs.boot_Project_01.BootProject01ApplicationTests
